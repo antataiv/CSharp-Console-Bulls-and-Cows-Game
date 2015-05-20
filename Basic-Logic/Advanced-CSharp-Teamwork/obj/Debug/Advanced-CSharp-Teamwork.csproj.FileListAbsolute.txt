@@ -1,0 +1,6 @@
+c:\users\anton\documents\visual studio 2013\Projects\Advanced-CSharp-Teamwork\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.exe.config
+c:\users\anton\documents\visual studio 2013\Projects\Advanced-CSharp-Teamwork\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.exe
+c:\users\anton\documents\visual studio 2013\Projects\Advanced-CSharp-Teamwork\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.pdb
+c:\users\anton\documents\visual studio 2013\Projects\Advanced-CSharp-Teamwork\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.csprojResolveAssemblyReference.cache
+c:\users\anton\documents\visual studio 2013\Projects\Advanced-CSharp-Teamwork\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.exe
+c:\users\anton\documents\visual studio 2013\Projects\Advanced-CSharp-Teamwork\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.pdb
