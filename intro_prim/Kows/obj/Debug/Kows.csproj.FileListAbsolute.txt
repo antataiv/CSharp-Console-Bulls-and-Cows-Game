@@ -1,0 +1,6 @@
+E:\C#\Advanced C# may 2015\KraviiBikove\Kows\bin\Debug\Kows.exe.config
+E:\C#\Advanced C# may 2015\KraviiBikove\Kows\bin\Debug\Kows.exe
+E:\C#\Advanced C# may 2015\KraviiBikove\Kows\bin\Debug\Kows.pdb
+E:\C#\Advanced C# may 2015\KraviiBikove\Kows\obj\Debug\Kows.csprojResolveAssemblyReference.cache
+E:\C#\Advanced C# may 2015\KraviiBikove\Kows\obj\Debug\Kows.exe
+E:\C#\Advanced C# may 2015\KraviiBikove\Kows\obj\Debug\Kows.pdb
