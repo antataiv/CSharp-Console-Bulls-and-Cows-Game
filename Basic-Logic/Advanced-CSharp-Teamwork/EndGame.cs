@@ -77,10 +77,11 @@ namespace Advanced_CSharp_Teamwork
 
         private static void TryAgain()
         {
-            Console.Write("Would you like to try again(Y/N)?");
+            //Console.Write("Would you like to try again(Y/N)?");
             string tryAgain = Console.ReadLine();
             if (tryAgain.ToLower() == "y")
             {
+                Console.Clear();
                 MainLogic.MainGameLogic();
             }
             else
