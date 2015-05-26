@@ -10,17 +10,32 @@ namespace Advanced_CSharp_Teamwork
         private static int[] number;
         private static int difficulty;
         private static int digits = 0;
+        private static int difficultyChoice;
         public static void MainGameLogic()
         {
-            Console.Write("Enter number of digits to play with: ");
-            digits = int.Parse(Console.ReadLine());
+            Console.Write("Enter number of digits to play with (3-6): ");
+            while (!int.TryParse(Console.ReadLine(), out digits) || digits<3 || digits>6)
+            {
+                Console.WriteLine("Try again. Use numbers between 3 and 6");
+            }
             Console.Clear();
 
             Console.WriteLine(@"1. Difficulty level ""Easy"" (10 tries.)");
             Console.WriteLine(@"2. Difficulty level ""Medium"" (5 tries.)");
             Console.WriteLine(@"3. Difficulty level ""Hard"" (3 tries.)");
-            Console.Write("Choose difficulty level: 1, 2 or 3 ? ");
-            int difficultyChoice = int.Parse(Console.ReadLine());
+            Console.WriteLine("Choose difficulty level: 1, 2 or 3 ? ");
+            Console.Write("Please make you choice:");
+            
+            while (!int.TryParse(Console.ReadLine(), out difficultyChoice) || (difficultyChoice < 1 || difficultyChoice > 3))
+            {
+                Console.Clear();
+                Console.WriteLine(@"1. Difficulty level ""Easy"" (10 tries.)");
+                Console.WriteLine(@"2. Difficulty level ""Medium"" (5 tries.)");
+                Console.WriteLine(@"3. Difficulty level ""Hard"" (3 tries.)");
+                Console.WriteLine("Choose difficulty level: 1, 2 or 3 ? ");
+                Console.Write("Please make you choice:");
+            }
+
             switch (difficultyChoice)
             {
                 case 1:
@@ -48,12 +63,12 @@ namespace Advanced_CSharp_Teamwork
             if (gameWon)
             {
                 gameWon = false;
-                Console.WriteLine("CONGRATS. YOU WON.");
+               
                 EndGame.YouWin();
             }
             else
             {
-                Console.WriteLine("SORRY. YOU LOST. The number is: {0}", string.Join("", number));
+               
                 EndGame.YouLose();
             }
         }
@@ -83,6 +98,13 @@ namespace Advanced_CSharp_Teamwork
 
         private static void CheckTry(int[] number, string guess, int digits)
         {
+            int check;
+            while (!int.TryParse(guess, out check)||guess.Length!=digits)
+            {
+                Console.WriteLine("Try agan please !!!");
+                guess = Console.ReadLine();
+
+            }
             int bulls = 0;
             int cows = 0;
             for (int i = 0; i < digits; i++)

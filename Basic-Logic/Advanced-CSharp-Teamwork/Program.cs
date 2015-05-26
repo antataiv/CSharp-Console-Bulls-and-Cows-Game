@@ -10,13 +10,13 @@ namespace Advanced_CSharp_Teamwork
             Console.SetWindowSize(100, 30);
             StartGame.Start();
 
-            Console.Write("Please make you choice:");
+            //Console.Write("Please make you choice:");
             while (!int.TryParse(Console.ReadLine(), out choice) || (choice < 1 || choice > 3))
             {
                 Console.WriteLine("Invalid input. Please use only 1, 2 or 3.");
                 Console.Write("Please make you choice:");
             }
-
+            Console.Clear();
             switch (choice)
             {
                 case 1:

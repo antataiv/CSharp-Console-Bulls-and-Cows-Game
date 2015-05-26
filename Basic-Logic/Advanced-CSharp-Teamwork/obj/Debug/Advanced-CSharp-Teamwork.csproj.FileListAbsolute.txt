@@ -10,3 +10,9 @@ C:\Users\Anton\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced
 C:\Users\Anton\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.exe
 C:\Users\Anton\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.pdb
 C:\Users\Anton\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.csprojResolveAssemblyReference.cache
+C:\Users\Koki\Desktop\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.exe.config
+C:\Users\Koki\Desktop\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.exe
+C:\Users\Koki\Desktop\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.pdb
+C:\Users\Koki\Desktop\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.exe
+C:\Users\Koki\Desktop\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.pdb
+C:\Users\Koki\Desktop\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.csprojResolveAssemblyReference.cache
