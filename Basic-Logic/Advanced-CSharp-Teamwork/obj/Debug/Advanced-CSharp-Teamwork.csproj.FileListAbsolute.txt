@@ -16,3 +16,9 @@ C:\Users\Koki\Desktop\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\A
 C:\Users\Koki\Desktop\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.exe
 C:\Users\Koki\Desktop\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.pdb
 C:\Users\Koki\Desktop\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.csprojResolveAssemblyReference.cache
+E:\C#\Advanced C# may 2015\Teamwor - Team VOSS - Bulls and cows\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.exe.config
+E:\C#\Advanced C# may 2015\Teamwor - Team VOSS - Bulls and cows\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.exe
+E:\C#\Advanced C# may 2015\Teamwor - Team VOSS - Bulls and cows\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.pdb
+E:\C#\Advanced C# may 2015\Teamwor - Team VOSS - Bulls and cows\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.exe
+E:\C#\Advanced C# may 2015\Teamwor - Team VOSS - Bulls and cows\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.pdb
+E:\C#\Advanced C# may 2015\Teamwor - Team VOSS - Bulls and cows\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.csprojResolveAssemblyReference.cache

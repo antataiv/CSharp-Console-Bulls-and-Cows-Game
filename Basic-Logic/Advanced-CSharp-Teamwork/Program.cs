@@ -10,22 +10,25 @@ namespace Advanced_CSharp_Teamwork
             Console.SetWindowSize(100, 30);
             StartGame.Start();
 
-            //Console.Write("Please make you choice:");
-            while (!int.TryParse(Console.ReadLine(), out choice) || (choice < 1 || choice > 3))
+            var keyInput = Console.ReadKey(true);
+
+            while ((keyInput.KeyChar != '1') && (keyInput.KeyChar != '2') && (keyInput.KeyChar != '3'))
             {
+                Console.Clear();
                 Console.WriteLine("Invalid input. Please use only 1, 2 or 3.");
                 Console.Write("Please make you choice:");
+                keyInput = Console.ReadKey(true);
             }
             Console.Clear();
-            switch (choice)
+            switch (keyInput.KeyChar)
             {
-                case 1:
+                case '1':
                     MainLogic.MainGameLogic();
                     break;
-                case 2:
+                case '2':
                     //show the help of the game
                     break;
-                case 3:
+                case '3':
                     Console.WriteLine("Thank you for playing. Bye bye!!!");
                     break;
             }

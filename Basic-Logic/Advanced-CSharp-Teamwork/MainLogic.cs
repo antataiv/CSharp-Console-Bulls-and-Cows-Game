@@ -13,29 +13,35 @@ namespace Advanced_CSharp_Teamwork
         private static int difficultyChoice;
         public static void MainGameLogic()
         {
+            int leftOffSet = (Console.WindowWidth / 2);
+            int topOffSet = (Console.WindowHeight / 2);
+            Console.SetCursorPosition(leftOffSet-30, topOffSet);
             Console.Write("Enter number of digits to play with (3-6): ");
             while (!int.TryParse(Console.ReadLine(), out digits) || digits<3 || digits>6)
             {
                 Console.WriteLine("Try again. Use numbers between 3 and 6");
             }
             Console.Clear();
-
-            Console.WriteLine(@"1. Difficulty level ""Easy"" (10 tries.)");
-            Console.WriteLine(@"2. Difficulty level ""Medium"" (5 tries.)");
-            Console.WriteLine(@"3. Difficulty level ""Hard"" (3 tries.)");
-            Console.WriteLine("Choose difficulty level: 1, 2 or 3 ? ");
-            Console.Write("Please make you choice:");
+            Console.SetCursorPosition(leftOffSet, topOffSet-5);
+            Console.Write(@"
+                                1. Difficulty level ""Easy"" (10 tries.)
+                                2. Difficulty level ""Medium"" (5 tries.)
+                                3. Difficulty level ""Hard"" (3 tries.)
+                                Choose difficulty level: 1, 2 or 3 ? 
+                                Please make you choice: ");
             
             while (!int.TryParse(Console.ReadLine(), out difficultyChoice) || (difficultyChoice < 1 || difficultyChoice > 3))
             {
                 Console.Clear();
-                Console.WriteLine(@"1. Difficulty level ""Easy"" (10 tries.)");
-                Console.WriteLine(@"2. Difficulty level ""Medium"" (5 tries.)");
-                Console.WriteLine(@"3. Difficulty level ""Hard"" (3 tries.)");
-                Console.WriteLine("Choose difficulty level: 1, 2 or 3 ? ");
-                Console.Write("Please make you choice:");
+                Console.SetCursorPosition(leftOffSet, topOffSet - 5);
+                Console.Write(@"
+                                1. Difficulty level ""Easy"" (10 tries.)
+                                2. Difficulty level ""Medium"" (5 tries.)
+                                3. Difficulty level ""Hard"" (3 tries.)
+                                Choose difficulty level: 1, 2 or 3 ? 
+                                Please make you choice: ");
             }
-
+            Console.Clear();
             switch (difficultyChoice)
             {
                 case 1:
@@ -101,7 +107,7 @@ namespace Advanced_CSharp_Teamwork
             int check;
             while (!int.TryParse(guess, out check)||guess.Length!=digits)
             {
-                Console.WriteLine("Try agan please !!!");
+                Console.Write("Try agan please. Your number is with {0} numbers: ",digits);
                 guess = Console.ReadLine();
 
             }
