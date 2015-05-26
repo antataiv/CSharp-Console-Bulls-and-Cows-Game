@@ -1,0 +1,5 @@
+C:\Users\Mr. Nameless\Dropbox\Programming\Level 1 - Fundamentals\Teamwork and Personal Skills\TWPS\03.EndShit\bin\Debug\03.EndShit.exe.config
+C:\Users\Mr. Nameless\Dropbox\Programming\Level 1 - Fundamentals\Teamwork and Personal Skills\TWPS\03.EndShit\bin\Debug\03.EndShit.exe
+C:\Users\Mr. Nameless\Dropbox\Programming\Level 1 - Fundamentals\Teamwork and Personal Skills\TWPS\03.EndShit\bin\Debug\03.EndShit.pdb
+C:\Users\Mr. Nameless\Dropbox\Programming\Level 1 - Fundamentals\Teamwork and Personal Skills\TWPS\03.EndShit\obj\Debug\03.EndShit.exe
+C:\Users\Mr. Nameless\Dropbox\Programming\Level 1 - Fundamentals\Teamwork and Personal Skills\TWPS\03.EndShit\obj\Debug\03.EndShit.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mr. Nameless\Dropbox\Programming\Level 1 - Fundamentals\Teamwork and Personal Skills\TWPS\02.MainLogic\bin\Debug\02.MainLogic.exe.config
+C:\Users\Mr. Nameless\Dropbox\Programming\Level 1 - Fundamentals\Teamwork and Personal Skills\TWPS\02.MainLogic\bin\Debug\02.MainLogic.exe
+C:\Users\Mr. Nameless\Dropbox\Programming\Level 1 - Fundamentals\Teamwork and Personal Skills\TWPS\02.MainLogic\bin\Debug\02.MainLogic.pdb
+C:\Users\Mr. Nameless\Dropbox\Programming\Level 1 - Fundamentals\Teamwork and Personal Skills\TWPS\02.MainLogic\obj\Debug\02.MainLogic.csprojResolveAssemblyReference.cache
+C:\Users\Mr. Nameless\Dropbox\Programming\Level 1 - Fundamentals\Teamwork and Personal Skills\TWPS\02.MainLogic\obj\Debug\02.MainLogic.exe
+C:\Users\Mr. Nameless\Dropbox\Programming\Level 1 - Fundamentals\Teamwork and Personal Skills\TWPS\02.MainLogic\obj\Debug\02.MainLogic.pdb
