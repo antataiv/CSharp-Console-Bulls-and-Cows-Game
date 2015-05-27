@@ -1,0 +1,17 @@
+"Bulls and cows" is game that is usually played with 4 digits,
+but in this version of the game can also be played with 5 or 6.
+The computer generates a random secret number with all different
+digits. Then you have to try to guess the number. If the
+matching digits are in their right positions, they are "bulls",
+if in different positions, they are "cows". 
+
+If you reveal the secret number you win the game.
+There is 3 levels of difficulcy in this version of the game:
+"Easy" with 10 valid inputs, "Medium" wtih 5 tries and "Hard"
+with 3 valid tries.
+
+Example:
+Secret number: 4271
+Opponent's try: 1234
+Answer: 1 bull and 2 cows. (The bull is "2", the cows are "4"
+and "1".)
