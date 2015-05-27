@@ -6,6 +6,7 @@ namespace Advanced_CSharp_Teamwork
     {
         static void Main()
         {
+            Console.Title = "BULLS AND COWS - by Team VOSS";
             Console.SetWindowSize(100, 30);
             StartGame.Start();
 
