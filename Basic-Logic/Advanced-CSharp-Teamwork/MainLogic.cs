@@ -128,7 +128,7 @@ namespace Advanced_CSharp_Teamwork
                 Console.WriteLine("Your number is with {0} digits and single digit cannot duplicated within a number!!!", digits);
                 Console.SetCursorPosition(leftOffSet - 10, 1);
                 Console.WriteLine("Try again please.");
-                Thread.Sleep(2000);
+                Thread.Sleep(6000);
                 Console.Clear();
                 ShowCurrentProgress();
                 guess = GetUserGuess();

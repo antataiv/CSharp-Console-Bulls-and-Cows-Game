@@ -27,14 +27,8 @@ namespace Advanced_CSharp_Teamwork
                     MainLogic.MainGameLogic();
                     break;
                 case '2':
-                    //show the help of the game
-                    Console.WriteLine("Here we show the game instructions.");
-                    keyInput = Console.ReadKey(true);
-                    if (keyInput.KeyChar != ' ')
-                    {
-                        StartGame.ShowMenu();
-                        keyInput = Console.ReadKey(true);
-                    }
+                    System.Diagnostics.Process.Start("Help.txt");            
+                    MainLogic.MainGameLogic();
                     break;
                 case '3':
                     Console.WriteLine("Thank you for playing. Bye bye!!!");
