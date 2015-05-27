@@ -22,9 +22,9 @@ E:\C#\Advanced C# may 2015\Teamwor - Team VOSS - Bulls and cows\Team-Voss\Basic-
 E:\C#\Advanced C# may 2015\Teamwor - Team VOSS - Bulls and cows\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.exe
 E:\C#\Advanced C# may 2015\Teamwor - Team VOSS - Bulls and cows\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.pdb
 E:\C#\Advanced C# may 2015\Teamwor - Team VOSS - Bulls and cows\Team-Voss\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.csprojResolveAssemblyReference.cache
-C:\Users\Krasimir\Desktop\Разни\SoftUni\Fundamental Level\CSharp Advanced\TeamWork\Team-Voss\trunk\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.exe.config
-C:\Users\Krasimir\Desktop\Разни\SoftUni\Fundamental Level\CSharp Advanced\TeamWork\Team-Voss\trunk\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.exe
-C:\Users\Krasimir\Desktop\Разни\SoftUni\Fundamental Level\CSharp Advanced\TeamWork\Team-Voss\trunk\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.pdb
-C:\Users\Krasimir\Desktop\Разни\SoftUni\Fundamental Level\CSharp Advanced\TeamWork\Team-Voss\trunk\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.exe
-C:\Users\Krasimir\Desktop\Разни\SoftUni\Fundamental Level\CSharp Advanced\TeamWork\Team-Voss\trunk\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.pdb
-C:\Users\Krasimir\Desktop\Разни\SoftUni\Fundamental Level\CSharp Advanced\TeamWork\Team-Voss\trunk\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Team-Voss-Copy\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.exe.config
+C:\Users\Anton\Team-Voss-Copy\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.exe
+C:\Users\Anton\Team-Voss-Copy\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.pdb
+C:\Users\Anton\Team-Voss-Copy\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.exe
+C:\Users\Anton\Team-Voss-Copy\Basic-Logic\Advanced-CSharp-Teamwork\bin\Debug\Advanced-CSharp-Teamwork.pdb
+C:\Users\Anton\Team-Voss-Copy\Basic-Logic\Advanced-CSharp-Teamwork\obj\Debug\Advanced-CSharp-Teamwork.csprojResolveAssemblyReference.cache

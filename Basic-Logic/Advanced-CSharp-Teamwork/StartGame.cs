@@ -65,11 +65,13 @@ namespace Advanced_CSharp_Teamwork
                              \______| \______/      \__/  \__/  |_______/      
                                                                ");
             Thread.Sleep(3000);
-
-
-
             Console.Clear();
+            ShowMenu();
+            th.Abort();
+        }
 
+        public static void ShowMenu()
+        {
             Console.WriteLine(@"
 
 
@@ -94,9 +96,6 @@ namespace Advanced_CSharp_Teamwork
                  |__ <     |______>  >   |  |  |  |   |  |  |  | |  |     |  |     
                  ___) |          /  /    |  `--'  '--.|  `--'  | |  |     |  |     
                 |____/          /__/      \_____\_____\\______/  |__|     |__|    ");
-
-            
-            th.Abort();
         }
 
         private static void Music()
