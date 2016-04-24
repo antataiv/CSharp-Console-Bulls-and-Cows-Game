@@ -1,1 +1,1 @@
-Advanced C# Teamwork Project
+Software University Advanced C# Teamwork Project
